@@ -7,7 +7,7 @@ export default function Hero() {
   return (
     <Section classNames="flex max-lg:flex-col items-center justify-between pt-20">
       <article className="w-full lg:w-1/2 space-y-8">
-        <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl leading-relaxed">
+        <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl md:leading-relaxed">
           Unlock the Power of Web Development
         </h1>
         <p className="max-w-[600px] text-muted-foreground md:text-xl">
